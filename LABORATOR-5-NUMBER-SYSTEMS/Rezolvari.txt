@@ -1,0 +1,6 @@
+The binary equivalent to the 192.168.11.10 IP address is : 11000000.10101000.00001011.00001010
+The binary equivalent to the 172.16.31.30 IP address is  : 10101100.00010000.00011111.00011110
+
+The hexadecimal equivalent of 202 is CA.
+The hexadecimal equivalent of 254 is FE.
+The decimal     equivalent of A9  is 169.
